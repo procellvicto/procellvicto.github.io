@@ -139,7 +139,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/procell-victoriaville-fond-acceuil-2000x1333-17.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/procell-victoriaville-fond-acceuil-2000x1333-44.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
