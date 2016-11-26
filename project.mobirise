@@ -113,7 +113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-blanc-295x128-40.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-blanc-2000x865-12-295x128-21.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -134,12 +134,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_anchor": "header1-4",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/procell-victoriaville-fond-acceuil-2000x1333-44.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/procell-victoriaville-fond-acceuil-2000x1333-44-2000x1333-71.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -156,15 +164,7 @@
           },
           "title": "ProCell Victoriaville",
           "text": "Service en une heure!*",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.rivicto.com/nous-contacter\" data-toolbar=\"-mbrBtnMove\">Nous Contacter</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features6-1\" data-toolbar=\"-mbrBtnMove\">Services</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "center",
-              "font-size": "30px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.rivicto.com/nous-contacter\" data-toolbar=\"-mbrBtnMove\">Nous Contacter</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features6-1\" data-toolbar=\"-mbrBtnMove\">Services</a> "
         },
         {
           "_name": "footer1",
