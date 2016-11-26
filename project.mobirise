@@ -49,10 +49,10 @@
             "paddingTop": "4",
             "paddingBottom": "0",
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dropped-iphone-6-with-cracked-screen-on-car-seat-picjumbo-com1920-2000x1334-2.png",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
