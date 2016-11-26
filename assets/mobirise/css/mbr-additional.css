@@ -411,6 +411,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box5-8 P {
+  text-align: left;
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
