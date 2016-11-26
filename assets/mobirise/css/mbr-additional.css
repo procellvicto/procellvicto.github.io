@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -478,9 +477,4 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#header1-4 .mbr-section-lead {
-  text-align: center;
-  font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
 }
