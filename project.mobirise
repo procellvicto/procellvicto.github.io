@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
@@ -39,6 +39,35 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dropped-iphone-6-with-cracked-screen-on-car-seat-picjumbo-com1920-2000x1334-87.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<p>ProCell Victoriaville</p>",
+          "text": "Vous avez fissuré la vitre de votre téléphone? Il ne charge plus ? Procell a la solution à tout vos problèmes de téléphone cellulaire ou tablette!<br>Nous offrons même un service en moins d'une heure!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nous contacter</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nos Services</a>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -112,7 +141,8 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-blanc-2000x865-12-295x128-21.png",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-blanc-295x128-51.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -125,8 +155,7 @@
               "name": "laptop",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -180,31 +209,33 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "desktop",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title1": "Ordinateurs",
+          "title1": "Réparations de cellulaires et tablettes",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Réparations Informatique Windows et Apple<br><br><br><br>",
+          "caption1": "Vous avez échappé votre tablette ou téléphone cellulaire? La batterie de tient plus sa charge ou vous rencontrez tout autre problème ? Nous avons la solution pour vous !<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.rivicto.com/nous-contacter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">819 960-9123</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "mobile",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
-          "title2": "Réparations Cellulaires et tablettes",
+          "title2": "Informatique Windows et Apple",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Vous avez échappé votre tablette ou téléphone cellulaire? La batterie de tient plus sa charge ou vous rencontrez tout autre problème ? Nous avons la solution pour vous !<br><br>",
+          "caption2": "Réparations d'ordinateur en tout genre, Mise au point, nettoyage, formattage et bien plus!<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"http://www.rivicto.com/nous-contacter\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">819 960-9123</a>",
           "media3": {
             "iconFont": {
